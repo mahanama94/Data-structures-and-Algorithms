@@ -4,7 +4,7 @@ CS2022
 Name : R.B. Mahanama
 Index No : 140381E
 
-How to execute the code in command line
+executing the code in command line
  
 change working directory to the directory of Main.java using commmand line
 	cd <path>
